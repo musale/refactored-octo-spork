@@ -1,0 +1,16 @@
+Host ce
+    Hostname 192.168.33.14
+    User vagrant
+
+Host duka
+    Hostname 139.162.189.163
+    User focus
+    Port 9622
+
+Host sms
+    Hostname 192.168.33.15
+    User vagrant
+
+Host smsl
+    Hostname 192.168.33.16
+    User vagrant
